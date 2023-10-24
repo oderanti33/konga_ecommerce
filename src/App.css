@@ -1,0 +1,15 @@
+/* .App {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  font-family: Arial, Helvetica, sans-serif;
+} */
+
+body {
+  background-color: white;
+  /* overflow-x: hidden; */
+  /* padding: 0px 10px; */
+  width: auto;
+  overflow-x: hidden;
+}
